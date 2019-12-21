@@ -11,17 +11,18 @@ Renames files by editing their paths directly in `Vi` (or in any other editor).
 
 # Install
 
-Simply using pip
+Install latest version using pip
 ```sh
-$ sudo apt install python3-pip 
-$ pip3 install --user virenamer 
+$ pip3 install --user git+https://github.com/essembeh/virenamer
 ```
 
-Clone the repository
+Or setup a development environment
 ```sh
 $ git clone https://github.com/essembeh/virenamer
 $ cd virenamer
-$ ./setup.py install --user --prefix=
+$ make venv
+$ source venv/bin/activate
+(venv) $ pip install -e .
 ```
 
 
