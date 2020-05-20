@@ -3,7 +3,6 @@ import os
 import shutil
 import subprocess
 from argparse import ArgumentParser
-from os.path import isdir
 from pathlib import Path
 from tempfile import NamedTemporaryFile
 
