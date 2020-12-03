@@ -13,11 +13,13 @@ Renames files by editing their paths directly in `Vi` (or in any other editor).
 
 Install latest version using pip
 ```sh
+$ pip3 install --user -U poetry
 $ pip3 install --user git+https://github.com/essembeh/virenamer
 ```
 
 Or setup a development environment
 ```sh
+$ pip3 install --user -U poetry
 $ git clone https://github.com/essembeh/virenamer
 $ cd virenamer
 $ make venv
