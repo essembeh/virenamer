@@ -11,8 +11,7 @@ classifiers = [
 ]
 
 [tool.poetry.dependencies]
-python = "^3.7"
-importlib_metadata = { version = "", python = "< 3.8" }
+python = "^3.8"
 colorama = ""
 
 
