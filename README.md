@@ -1,7 +1,4 @@
-![Github](https://img.shields.io/github/tag/essembeh/virenamer.svg)
-![PyPi](https://img.shields.io/pypi/v/virenamer.svg)
-![Python](https://img.shields.io/pypi/pyversions/virenamer.svg)
-![CI](https://github.com/essembeh/properties-tools/actions/workflows/poetry.yml/badge.svg)
+# ⚰️ This project is now part of [essembeh-tools](https://github.com/essembeh/essembeh-tools)
 
 # Virenamer
 
